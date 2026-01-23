@@ -40,8 +40,8 @@ Think of it as **infrastructure for identity**.
 
 ### 📁 Contents
 - 🎨 [Branding Overview](laboratory%202/branding/)
-- 🖼️ [Banner Assets](laboratory%202/branding/banner/)
-- 🏷️ [Logo Files](laboratory%202/branding/logo/)
+- 🖼️ [Banner](laboratory%202/branding/banner/)
+- 🏷️ [Logo](laboratory%202/branding/logo/)
 - 🎯 [Color Palette](laboratory%202/branding/palette/)
 
 ```bash
