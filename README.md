@@ -45,9 +45,5 @@ Think of it as **infrastructure for identity**.
 - 🎯 [Color Palette](laboratory%202/branding/palette/)
 
 ```bash
-branding/
-├─ banner/        # GitHub & dashboard banners
-├─ logo/          # DASH logos & marks
-├─ palette/       # Color palettes & typography
-└─ README.md      # Branding documentation
+
 
