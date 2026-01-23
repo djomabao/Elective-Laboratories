@@ -77,7 +77,13 @@ The DASH brand system is applied beyond asset creation through social media and 
 ### 📱 Social Media Post
 A branded social media graphic designed to reflect the DASH identity, focusing on motivation, discipline, and visual consistency.
 
-🔗 [View Social Media Post](../laboratory%203/square_post.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/djomabao/Elective-Laboratories/main/laboratory%203/Social%20Media%20Branding%20Graphics/square_post.png" 
+    alt="square_post" 
+    width="100%" 
+  />
+</p>
 
 
 ### 🖼️ Poster Design
