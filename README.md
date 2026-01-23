@@ -74,7 +74,7 @@ The DASH banner establishes strong brand presence through balanced composition a
 
 The DASH brand system is applied beyond asset creation through social media and promotional designs developed in Laboratory 3.
 
-### 📱 Social Media Post
+### Social Media Post
 A branded social media graphic designed to reflect the DASH identity, focusing on motivation, discipline, and visual consistency.
 
 <p align="center">
@@ -86,7 +86,7 @@ A branded social media graphic designed to reflect the DASH identity, focusing o
 </p>
 
 
-### 🖼️ Poster Design
+### Poster Design
 A one-page poster applying DASH branding principles such as hierarchy, contrast, and alignment to communicate information clearly.
 
 <p align="center">
@@ -98,7 +98,7 @@ A one-page poster applying DASH branding principles such as hierarchy, contrast,
 </p>
 
 
-### 📊 Infographic & Mini Project 
+### Infographic & Mini Project 
 
 A one-page infographic designed to visually summarize the problem of poor time management, its impact, and a proposed solution using the DASH branding system.
 
