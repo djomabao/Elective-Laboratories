@@ -44,6 +44,4 @@ Think of it as **infrastructure for identity**.
 - 🏷️ [Logo](laboratory%202/branding/logo/)
 - 🎯 [Color Palette](laboratory%202/branding/palette/)
 
-```bash
-
 
