@@ -37,9 +37,6 @@ Think of it as **infrastructure for identity**.
 ---
 
 ## 🎨 Branding Assets
-## 🧪 Laboratory 2 – Branding & Identity
-
-This laboratory focuses on brand development, visual identity, and digital assets.
 
 ### 📁 Contents
 - 🎨 [Branding Overview](laboratory%202/branding/)
