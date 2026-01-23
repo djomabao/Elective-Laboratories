@@ -8,7 +8,6 @@
 </p>
 
 
-<h1 align="center">Laboratory-2</h1>
 <p align="center"><strong>⚡ DASH Personal Branding Laboratory</strong></p>
 
 <p align="center">
