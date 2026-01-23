@@ -1,7 +1,8 @@
 <!-- ================= HERO BANNER ================= -->
 <p align="center">
-  <img src="branding/banner/DASH banner.png" alt="DASH Banner" width="100%" />
+  <img src="dash-banner.png" alt="DASH Banner" width="100%">
 </p>
+
 
 <h1 align="center">Laboratory-2</h1>
 <p align="center"><strong>⚡ DASH Personal Branding Laboratory</strong></p>
