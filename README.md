@@ -50,7 +50,6 @@ The DASH banner establishes strong brand presence through balanced composition a
 
 📁 **Location:** `branding/banner`
 
----
 
 ## 📐 Design Principles Applied
 - Visual hierarchy  
