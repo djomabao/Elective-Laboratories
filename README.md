@@ -79,7 +79,6 @@ A branded social media graphic designed to reflect the DASH identity, focusing o
 
 🔗 [View Social Media Post](../laboratory%203/square_post.png)
 
----
 
 ### 🖼️ Poster Design
 A one-page poster applying DASH branding principles such as hierarchy, contrast, and alignment to communicate information clearly.
