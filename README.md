@@ -61,15 +61,6 @@ The DASH banner establishes strong brand presence through balanced composition a
 
 ---
 
-## 📦 Applications
-The DASH Brand Kit is intended for:
-- GitHub profile customization  
-- Academic and laboratory submissions  
-- Infographics and posters  
-- Personal portfolio and resumes  
-
----
-
 ## 🎨 Branding Assets
 
 ### 📁 Contents
