@@ -8,7 +8,7 @@
 </p>
 
 
-<p align="center"><strong>⚡ DASH Personal Branding Laboratory</strong></p>
+<p align="center"><strong>⚡ DASH Personal Branding Kit</strong></p>
 
 <p align="center">
   Design · Identity · Systems · Experiments
