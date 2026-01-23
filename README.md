@@ -24,7 +24,7 @@
 
 # 🧪 Overview
 
-🔑 Brand Philosophy
+<u>Brand Philosophy</u>
 
 DASH is driven by the mindset of continuous progress — pushing forward without hesitation and performing with maximum intent. The brand reflects resilience, discipline, and commitment, mirroring the demands of high-level athletics and personal growth.
 
